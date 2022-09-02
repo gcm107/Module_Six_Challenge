@@ -4,7 +4,7 @@ Creating visualizations to help improve the decision making process. In this exa
 ---
 
 ## Technologies
-PyViz -- This is a visualization package which can access nultiple visualization libraries. We will use two of those libraries, hvPlot and GeoViews.
+PyViz -- This is a visualization package which can access multiple visualization libraries. We will use two of those libraries, hvPlot and GeoViews.
 
 
 
