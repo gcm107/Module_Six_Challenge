@@ -1,4 +1,4 @@
-# Module_Six_Challenge
+# San Fransisco Housing Prices by squarefoot and gross rent price
 Creating visualizations to help improve the decision making process. In this example, we use hvplot to visualize average sale price per square foot, and average gross rent for neighborhoods in San Fransisco. 
 
 ---
